@@ -16,7 +16,7 @@ import org.springframework.web.servlet.ModelAndView;
 import com.college.crudstudent.entity.StudentEntity;
 import com.college.crudstudent.service.StudentService;
 
-
+//none
 
 @Controller
 public class StudentController {
